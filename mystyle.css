@@ -10,3 +10,12 @@ body {
     display: block;
     border: 10px solid #FFFFD2;
 }
+.center{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.purple{
+    color: #AA96DA;
+}
