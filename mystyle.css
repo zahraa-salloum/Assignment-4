@@ -1,0 +1,12 @@
+body {
+    background-color: #AA96DA;
+  }
+  
+.paper{
+    background-color:#C5FAD5;
+    width: 1000px;
+    margin: auto;
+    padding:20px 20px 20px 20px;
+    display: block;
+    border: 10px solid #FFFFD2;
+}
